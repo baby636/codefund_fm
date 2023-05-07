@@ -25,7 +25,7 @@ gem "devise", "~> 4.7"
 gem "model_probe", "~> 1.0"
 gem "omniauth", "~> 1.9"
 gem "omniauth-github", "~> 1.3"
-gem "omniauth-linkedin", "~> 0.2"
+gem "omniauth-linkedin", "~> 0.2", ">= 0.2.0"
 gem "omniauth-twitter", "~> 1.4"
 
 group :development, :test do
